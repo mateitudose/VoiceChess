@@ -1,4 +1,5 @@
 # VoiceChess
+<img width="1024" height="768" alt="79A6BB0E-306D-4A46-9292-D3522A3C612A_1_105_c" src="https://github.com/user-attachments/assets/9faac36c-38a7-41a6-a285-309dde7c8e05" />
 
 A voice-controlled automatic chess board, built as a Cyber-Physical Systems course
 project. You **say** your move ("pawn to e4"), the board **confirms it out loud**,
